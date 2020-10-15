@@ -1,5 +1,4 @@
 # MyPortfolio
-Example portfolio
 
 # Project 1: Cigarette Smoking in Adolescents
 
