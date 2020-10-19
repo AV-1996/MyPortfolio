@@ -8,8 +8,8 @@
 
 ### Project 2: Sentiment and Category Classification of Amazon Review Data
 
-  - Ongoing project involving Natural Language Processing tools and Machine Learning classification models to predict the product type and sentiment of 5000 Amazon product reviews.
+  - Project involving Natural Language Processing tools and Machine Learning classification models to predict the product type and sentiment of 5000 Amazon product reviews.
 
-### Project 3: Ocular Disease Classification of Images using a Convolutional Neural Network
+### Ongoing Project 3: Ocular Disease Classification of Images using a Convolutional Neural Network
 
   - Ongoing project involving building a Convolutional Neural Network in Keras in order to diagnose patients’ ocular conditions based on 6300 JPG images of their left and right retinas. 
