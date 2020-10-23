@@ -16,4 +16,4 @@
 
 ### Ongoing Project 4: Database Creation Using Sales Data in Brazil
 
-  - Ongoing project involving constructing a simple database using Sales Data for more than 25 million orders across chain stores in Brazil for more efficient querying.
+  - Ongoing project involving constructing a simple database using Sales Data for more than 25 million orders across chain stores in Brazil using MySQL for more efficient data querying and updating.
